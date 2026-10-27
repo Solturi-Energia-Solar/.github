@@ -27,8 +27,8 @@ A **Solturi** nasceu em 2019, em Jaraguá do Sul (SC), com um propósito claro: 
 
 ### Missão, visão e valores
 
-**Missão:** levar economia por meio de sistemas fotovoltaicos, ajudando as pessoas e o planeta.
-**Visão:** ser reconhecida no Brasil pela excelência em atendimento.
-**Valores:** excelência com humildade e respeito.
+- **Missão:** levar economia por meio de sistemas fotovoltaicos, ajudando as pessoas e o planeta.
+- **Visão:** ser reconhecida no Brasil pela excelência em atendimento.
+- **Valores:** excelência com humildade e respeito.
 
 <p align="center"><em>Seu futuro mais sustentável começa com a Solturi.</em></p>
