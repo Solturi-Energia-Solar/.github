@@ -26,6 +26,6 @@ A marca é usada monocromática: **laranja ou azul** sobre fundos claros e **bra
 
 <p>
   <img src="assets/marca-laranja.svg" alt="Marca Solturi em laranja" height="48">
-  &nbsp;&nbsp;
+  &emsp;&emsp;&emsp;
   <img src="assets/marca-azul.svg" alt="Marca Solturi em azul" height="48">
 </p>
